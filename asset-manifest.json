@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c176f1f7.css",
-    "main.js": "/static/js/main.08b36b83.js",
-    "index.html": "/index.html",
-    "main.c176f1f7.css.map": "/static/css/main.c176f1f7.css.map",
-    "main.08b36b83.js.map": "/static/js/main.08b36b83.js.map"
+    "main.css": "/plantify/static/css/main.c176f1f7.css",
+    "main.js": "/plantify/static/js/main.08b36b83.js",
+    "index.html": "/plantify/index.html",
+    "main.c176f1f7.css.map": "/plantify/static/css/main.c176f1f7.css.map",
+    "main.08b36b83.js.map": "/plantify/static/js/main.08b36b83.js.map"
   },
   "entrypoints": [
     "static/css/main.c176f1f7.css",
